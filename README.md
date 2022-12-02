@@ -25,7 +25,7 @@
     ### [Margin & Padding](CSS/8.%20Margin%20and%20Padding/)
 - ## Javascript
     ### [Introduction](JS/0.%20Introduction%20to%20Javascript/)
-    ### [Variables and Datatypes in Javascript](JS/%20Variables%20and%20Datatypes%20in%20Javascript/)
+    ### [Variables and Datatypes in Javascript](JS/1.%20Variables%20and%20Datatypes%20in%20Javascript/)
     ### [Operator](JS/2.%20Operator/)
     ### [Conditional Control Construct](JS/3.%20Conditional%20Control%20Construct/)
     
